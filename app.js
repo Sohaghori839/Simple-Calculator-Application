@@ -1,0 +1,19 @@
+
+function getNumber(num) {
+    //console.log(num)
+    var result = document.getElementById("result");
+    result.value += num;
+}
+function clearResult() {
+    var result = document.getElementById("result");
+    result.value = ""
+}
+
+function getResult() {
+    var result = document.getElementById("result");
+    result.value = eval(result.value)
+}
+function getBaseLog(x, y) {
+    return Math.log(y) / Math.log(x);
+  }
+

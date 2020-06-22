@@ -1,0 +1,36 @@
+.heading-cal{
+    text-align: center;
+    color: black;
+    text-decoration: underline gray;
+    text-indent: 10px;
+    text-shadow: 1px 1px 0px yellow;
+    font-weight: bold;
+
+}
+
+.main{
+    border: 2px solid gray;
+    width: 300px;
+    margin: 0  auto;
+   
+}
+.result{
+    width: 97%;
+    background-color: whitesmoke;
+    color: black;
+}
+.clear-btn{
+    width: 99.5%;
+    margin-top:10px ;
+    background-color: burlywood;
+
+}
+.btn{
+    background-color: teal;
+    width: 70px;
+    margin: 1px;
+}
+.btn1{
+    background-color: rgb(255, 166, 0);
+    width:70px ;
+}
